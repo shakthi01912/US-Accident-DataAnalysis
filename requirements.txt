@@ -10,6 +10,7 @@ scipy
 seaborn
 plotly.express
 nbformat>=4.2.0
+opendatasets
 
 #  pip install -r requirements.txt
 # python -m venv venv
